@@ -1,5 +1,5 @@
 # the-breath-shape-controls-intonation-of-mouse-vocalizations
-Code for analyses described in MacDonald et al 2024 (https://elifesciences.org/reviewed-preprints/93079)
+MATLAB code for analyses described in MacDonald et al 2024 (https://elifesciences.org/reviewed-preprints/93079)
 This repository contains the code for analysis of mouse vocalization, breathing +/- optogenetic data collected and reported in our paper titled 'the breath shape controls intonation of mouse vocalizations'
 The data are available on the UCSF repository (ADD LINK)
 **Overview**
