@@ -1,7 +1,7 @@
 # the-breath-shape-controls-intonation-of-mouse-vocalizations
 MATLAB code for analyses described in MacDonald et al 2024 (https://elifesciences.org/reviewed-preprints/93079)
 This repository contains the code for analysis of mouse vocalization, breathing +/- optogenetic data collected and reported in our paper titled 'the breath shape controls intonation of mouse vocalizations'
-The data are available on the UCSF repository (ADD LINK)
+The data are available on the Dryad repository (https://datadryad.org/stash/dataset/doi:10.5061/dryad.n8pk0p34d)
 
 **Overview**
 The basic workflow of these scripts is to have one script that batch processes the recordings and saves relevant information in a .mat file and then have a second script that opens these .mat file and groups the variables in a relevant way (e.g. segmenting all the breaths and USVs in a recording, saving them in a .mat and then a second script that opens them and groups by USV class)
