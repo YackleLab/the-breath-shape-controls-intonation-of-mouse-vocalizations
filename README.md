@@ -14,6 +14,6 @@ To analyze the features of breaths containing different classes of USV (e.g. Fig
 Then use 'callVarsPreProcessing.m' to gather each vocal breath, pitch vector, onset/offset and vocal class and save in a .mat.
 Finally run the various compliler scripts to generate summary data and/or raster plots
 
-To analyze the abaility of optogenetic stimulation to produce USVs run 'writeOptoVarsBatch'.
+To analyze the ability of optogenetic stimulation to produce USVs run 'writeOptoVarsBatch'.
 
 Note, the basic breathing analysis uses functions from Bachmutsky et al 2020. Availble in this respository: https://github.com/YackleLab/Opioids-depress-breathing-through-two-small-brainstem-sites
